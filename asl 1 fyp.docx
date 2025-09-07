@@ -1,0 +1,11 @@
+Start
+Print "Input & calculate Area of Rectangle"
+Input Length
+Prinnt "Input Width = "
+Input Length
+Print "Input Width = "
+Input Width
+Area = Length + width 
+Print "Area of Rectangle = "
+Print Area
+End
